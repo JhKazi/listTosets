@@ -5,6 +5,8 @@ val=3
 
 a=list(set(nums))
 
+b=a[::-1]
+
 
 k=len(a)
-print(k,a)
+print(k,b)
